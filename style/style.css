@@ -1,0 +1,64 @@
+#toDoList {
+
+    width: 30%;
+    margin: auto;
+    display: block;
+    padding-top: 100px;
+}
+#inputDiv{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    border-width: 2px;
+    width: 90%;
+    display: block;
+}
+#listDiv {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-style: solid;
+    border-width: 2px ;
+
+}
+.checkBoxInput {
+    width: 17px;
+    height: 17px;
+    vertical-align:middle;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+.trashImg {
+    height: 18px;
+    width: 20px;
+    float: right;
+}
+.content {
+    padding-left: 10px;
+    width: 100%;
+}
+#listTable tr {
+    padding: 10px;
+}
+#listTable {
+    /*border: 1px solid black;*/
+    padding: 0px;
+    width: 100%;
+    table-layout: fixed;
+    border: 0px;
+}
+.elementTd{
+
+    padding: 0px;
+    table-layout: fixed;
+    width: 60px;
+}
+#addNew {
+    width: 100%;
+    border: 2px solid dimgrey;
+    margin: auto;
+}
+#contentDiv {
+
+}
